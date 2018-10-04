@@ -1,0 +1,8 @@
+{
+    "user": [
+        { "id": 1, "id_trabajador": "ABC123", "nombre": "Rey", "email": "rey@rey.com"},
+        { "id": 2, "id_trabajador": "ABC124", "nombre": "Mendez", "email": "rey2@rey.com"},
+        { "id": 3, "id_trabajador": "ABC125", "nombre": "Luciano", "email": "rey3@rey.com"},
+        { "id": 4, "id_trabajador": "ABC126", "nombre": "Maximiliano", "email": "rey4@rey.com"}
+    ]
+  }
