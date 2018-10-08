@@ -4,6 +4,7 @@
         { "id": 2, "id_trabajador": "ABC124", "contrasena": "bimbo", "nombre": "Mendez", "email": "rey2@rey.com"},
         { "id": 3, "id_trabajador": "ABC125", "contrasena": "bimbo", "nombre": "Luciano", "email": "rey3@rey.com"},
         { "id": 4, "id_trabajador": "ABC126", "contrasena": "bimbo", "nombre": "Maximiliano", "email": "rey4@rey.com"},
-        { "id": 5, "id_trabajador": "ABC127", "contrasena": "bimbo", "nombre": "Antonio", "email": "rey5@rey.com"}
+        { "id": 5, "id_trabajador": "ABC127", "contrasena": "bimbo", "nombre": "Antonio", "email": "rey5@rey.com"},
+        { "id": 6, "id_trabajador": "ABC200", "contrasena": "bimbo", "nombre": "José Alfredo", "email": "rey_mendez@rey.com"}
     ]
   }
