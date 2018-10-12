@@ -1,10 +1,10 @@
 {
     "users": [
-        { "id": 1, "id_trabajador": "ABC123", "contrasena": "bimbo", "nombre": "Rey", "email": "rey@rey.com"},
-        { "id": 2, "id_trabajador": "ABC124", "contrasena": "bimbo", "nombre": "Mendez", "email": "rey2@rey.com"},
-        { "id": 3, "id_trabajador": "ABC125", "contrasena": "bimbo", "nombre": "Luciano", "email": "rey3@rey.com"},
-        { "id": 4, "id_trabajador": "ABC126", "contrasena": "bimbo", "nombre": "Maximiliano", "email": "rey4@rey.com"},
-        { "id": 5, "id_trabajador": "ABC127", "contrasena": "bimbo", "nombre": "Antonio", "email": "rey5@rey.com"},
-        { "id": 6, "id_trabajador": "ABC200", "contrasena": "bimbo", "nombre": "José Alfredo", "email": "rey_mendez@rey.com"}
+        { "Id": 1, "Id_trabajador": "ABC123", "Contrasena": "bimbo", "Nombre": "Rey", "Email": "rey@rey.com"},
+        { "Id": 2, "Id_trabajador": "ABC124", "Contrasena": "bimbo", "Nombre": "Mendez", "Email": "rey2@rey.com"},
+        { "Id": 3, "Id_trabajador": "ABC125", "Contrasena": "bimbo", "Nombre": "Luciano", "Email": "rey3@rey.com"},
+        { "Id": 4, "Id_trabajador": "ABC126", "Contrasena": "bimbo", "Nombre": "Maximiliano", "Email": "rey4@rey.com"},
+        { "Id": 5, "Id_trabajador": "ABC127", "Contrasena": "bimbo", "Nombre": "Antonio", "Email": "rey5@rey.com"},
+        { "Id": 6, "Id_trabajador": "ABC200", "Contrasena": "bimbo", "Nombre": "José Alfredo", "Email": "rey_mendez@rey.com"}
     ]
   }
